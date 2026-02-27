@@ -2,7 +2,7 @@
 
 **SLH Word Splitter** is a cutting-edge, futuristic desktop application designed for the 2026 digital era. It segments large text volumes into manageable parts based on a precise word count, featuring a hyper-polished "Cyber-Coffee" interface with glassmorphism effects and neon accents.
 
-![App Interface](source_files/SLH.png)
+<img src="source_files/SLH.png" alt="SLH" width="340" height="340" />
 
 ## 🌟 Futuristic Features
 
